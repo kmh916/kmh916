@@ -3,6 +3,14 @@
 <a href="mailto:kmh102808@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://velog.io/@kmh916"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/kmh916"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 
 <br>
